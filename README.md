@@ -17,4 +17,21 @@ For the purposes of codelist identification, primary care codes
      - Waardenburg syndrome
      - Hermanski-Pudlak syndrome
      - Griscelli syndrome
-     - Menkes syndrome 
+     - Menkes syndrome
+     - Genetic hypopigmenting conditions (excluding vitiligo)
+    
+   - Post-inflammatory hypomelanoses
+     - Post-inflammatory leukoderma including after atopic eczema or psoriasis
+     - Lichen planus
+     - Pityriasis alba
+     - Lichen sclerosus
+       
+   - Post traumatic leukoderma
+     
+   - Para-malignant hypomelanoses
+     - Cutaneous T-cell lymphoma (mycosis fungoides)
+     - Melanoma associated depigmentation
+
+   - Occupational vitiligo
+  
+   - Induced hypomelanoses (excluding vitiligo)
