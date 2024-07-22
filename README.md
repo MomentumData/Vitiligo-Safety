@@ -11,10 +11,10 @@ For the purposes of codelist identification, primary care codes
 1. People identified with a diagnosis code for vitiligo** in primary care.
 2. And people with no diagnosis codes for the conditions listed below.
    - Congenital and genetic hypomelanoses:
-    - Piebaldism
-    - Tuberous sclerosis
-    - Hypomelanosis of Ito
-    - Waardenburg syndrome
-    - Hermanski-Pudlak syndrome
-    - Griscelli syndrome
-    - Menkes syndrome 
+     - Piebaldism
+     - Tuberous sclerosis
+     - Hypomelanosis of Ito
+     - Waardenburg syndrome
+     - Hermanski-Pudlak syndrome
+     - Griscelli syndrome
+     - Menkes syndrome 
