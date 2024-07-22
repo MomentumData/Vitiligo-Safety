@@ -9,7 +9,7 @@ For the purposes of codelist identification, primary care codes
 
 ### Vitiligo
 1. People identified with a diagnosis code for vitiligo** in primary care.
-2. And people with no diagnosis codes for the conditions listed below.
+2. And people with no diagnosis codes for the alternative depigmentation conditions listed below.
    - Congenital and genetic hypomelanoses:
      - Piebaldism
      - Tuberous sclerosis
@@ -20,7 +20,7 @@ For the purposes of codelist identification, primary care codes
      - Menkes syndrome
      - Genetic hypopigmenting conditions (excluding vitiligo)
     
-   - Post-inflammatory hypomelanoses
+   - Post-inflammatory hypomelanoses:
      - Post-inflammatory leukoderma including after atopic eczema or psoriasis
      - Lichen planus
      - Pityriasis alba
@@ -28,10 +28,55 @@ For the purposes of codelist identification, primary care codes
        
    - Post traumatic leukoderma
      
-   - Para-malignant hypomelanoses
+   - Para-malignant hypomelanoses:
      - Cutaneous T-cell lymphoma (mycosis fungoides)
      - Melanoma associated depigmentation
 
    - Occupational vitiligo
-  
+     
    - Induced hypomelanoses (excluding vitiligo)
+     
+   - Pityriasis versicolor (or Tinea versicolor)
+  
+   - Others:
+     - Melasma
+     - Morphoea
+     - Idiopathic guttate hypomelanosis
+     - Xeroderma pigmentosum
+     - Progressive macular hypomelanosis
+     - Nevus depigmentosus
+     - Cutaneous sarcoidosis
+    
+### Trial-similar vitiligo
+In addition to the criteria listed above for vitiligo, patients with any of the following diagnosis/medication/procedure codes (made in primary care) could be excluded from the trial similar cohort:
+ - Vogt-Koyanagi-Harada disease
+ - Ataxia telangiectasia
+ - Albinism
+ - Incontinentia pigmenti
+ - Dyschromatosis symmetrica hereditarian
+ - Leukoderma
+ - Discoid lupus
+ - Syphilis
+ - Seborrheic dermatitis
+ - Antibiotics
+ - Antivirals
+ - Antiparasitics
+ - Antiprotozoals
+ - Antifungals
+ - Serious infections
+ - Active tuberculosis
+ - Disseminated herpes simplex or zoster
+   - Herpetic septicemia
+   - Visceral herpes simplex
+   - Herpes viral hepatitis
+   - Herpesvirus encephalitis
+   - Disseminated herpes viral disease
+ - Hepatitis B
+ - Hepatitis C
+ - Humman Immunodeficiency Virus (HIV)
+ - 
+     
+
+
+
+
