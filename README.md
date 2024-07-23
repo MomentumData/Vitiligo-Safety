@@ -65,7 +65,7 @@ In addition to the criteria listed above for vitiligo, patients with any of the 
  - Antifungals
  - Serious infections
  - Active tuberculosis
- - Disseminated herpes simplex or zoster
+ - Disseminated herpes simplex or zoster:
    - Herpetic septicemia
    - Visceral herpes simplex
    - Herpes viral hepatitis
@@ -74,8 +74,93 @@ In addition to the criteria listed above for vitiligo, patients with any of the 
  - Hepatitis B
  - Hepatitis C
  - Humman Immunodeficiency Virus (HIV)
- - 
-     
+ - Clinically significant, severe, progressive or uncontrolled diseases:
+   - Renal
+   - Hepatic
+   - Haematological
+   - Gastrointestinal
+   - Metabolic
+   - Endocrine
+   - Pulmonary
+   - Cardiovascular
+   - Psychiatric
+   - Immunologic/Rheumatologic
+   - Neurologic
+ - Hearing loss, middle or inner ear disease:
+   - Otis media
+   - Cholesteatoma
+   - Meniere's Disease
+   - Labyrinthitis
+ - Lymphoproliferative disorders:
+   - Waldenstorm's Macroglobulinemia
+   - Wiskott-Aldrich syndrome
+   - Pityriasis llichenoides
+   - Parapsoriasis post-transplant lymphoproliferative disorder
+   - Autoimmune lymphoproliferative syndrome
+ - Cardiompyopathy
+ - Long QT syndrome
+ - Torsade de pointe
+ - Malignancy (excluding non-melanoma skin cancer (NMSC) and cervical carcinoma in _situ_
+ - Depigmentation treatment for pigmentation disorders
+ - Systemic JAK inhibitor
+ - Non-B cell selective lymphocyte depleting agent
+ - Melanocyte-keratinocyte transplantation
+ - Surgical treatment for vitiligo
+ - B-cell-depleting agents
+ - Immunomodulatory biologic agents
+ - Narrow-band UVB phototherapy
+ - Phototherapy
+ - Laser therapy
+ - Oral immune suppressants
+ - Intralesional, oral, or injectable steroids
+ - Exposure to investigational drugs
+
+### Outcomes
+People identified with the respective diagnosis codes recorded in primary or secondary care as for each of the outcomes below:
+ - Opportunistic infections
+ - Herpes zoster
+ - Herpes simplex
+ - Psychiatric conditions:
+   - Anxiety disorder
+   - Mood disorder
+   - Personality disorder
+   - Suicidal ideation or behaviour
+   - Depression
+ - Type 1 Diabetes
+ - Type 2 Diabetes
+ - Autoimmune thyroditis (including Hashimoto Thyroiditis)
+ - Rheumatoid arthritis
+ - Systemic lupus erythematosus
+ - Sjorgen's Syndrome
+ - Mysathenia Gravis
+ - Systemic sclerosis
+ - Autoimmune blistering diseases:
+   - Epidermolysis bullosa
+   - Pemphigus vulgaris
+   - Bullous pemphigoid
+ - Psoriasis
+ - Pernicious anemia
+ - Hearing loss
+ - Alopecia areata
+ - Serious infections
+ - Malignancy (excluding non-melanoma skin cancer (NMSC) and cervical carcinoma in _situ_
+ - NMSC:
+   - Basal Cell Carcinoma (BCC)
+   - Squamous Cell Carcinoma (SCC)
+ - Venous thromboembolism:
+   - Deep vein thrombosis
+   - Pulmonary embolism
+ - Artherial thromboembolism
+ - Major Adverse Cardiovascular Event (MACE):
+   - Acute myocardial infarction
+   - Unstable angina
+   - Coronary vrevascularisation by PCI or CABG
+   - Ischaemic stroke
+   - Haemorrhagic stroke
+- Peripheral neuropathy
+- Sensorineural hearing loss
+- Parasthesia
+- Dysesthesia
 
 
 
