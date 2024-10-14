@@ -48,8 +48,8 @@ For the purposes of codelist identification, primary care codes
      - [Cutaneous sarcoidosis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/933109f7d1f8ff28e32fe88ccc4417018c8af3c2/Conditions/Cutaneous%20Sarcoidosis)
     
 ### Trial-similar vitiligo
-In addition to the criteria listed above for vitiligo, patients with any of the following diagnosis/medication/procedure codes (made in primary care) could be excluded from the trial similar cohort:
- - Vogt-Koyanagi-Harada disease
+In addition to the criteria listed above for vitiligo, patients with any of the following diagnosis/medication/procedure codes (made in primary care) will be excluded from the trial similar cohort:
+ - Vogt-Koyanagi-Harada disease (included in [Congenital and genetic hypomelanoses](https://github.com/MomentumData/Momentum-Data-Codelists/tree/933109f7d1f8ff28e32fe88ccc4417018c8af3c2/Conditions/Congenital%20and%20Genetic%20Hypomelanoses%20v2))
  - Ataxia telangiectasia
  - Albinism
  - Incontinentia pigmenti
