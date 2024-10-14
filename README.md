@@ -10,7 +10,7 @@ For the purposes of codelist identification, primary care codes
 ### Vitiligo
 1. People identified with a diagnosis code for [vitiligo](https://github.com/MomentumData/Momentum-Data-Codelists/tree/933109f7d1f8ff28e32fe88ccc4417018c8af3c2/Conditions/Vitiligo) in primary care.
 2. And people with no diagnosis codes for the alternative depigmentation conditions listed below.
-   - [Congenital and genetic hypomelanoses](https://github.com/MomentumData/Momentum-Data-Codelists/tree/933109f7d1f8ff28e32fe88ccc4417018c8af3c2/Conditions/Congenital%20and%20Genetic%20Hypomelanoses%20v2):
+   - [Congenital and genetic hypomelanoses](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c2b95a798ef69efc22afa6b75a70a4866b5f8524/Conditions/Congenital%20and%20Genetic%20Hypomelanoses%20v2):
      - Piebaldism
      - Tuberous sclerosis
      - Hypomelanosis of Ito
