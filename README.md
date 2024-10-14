@@ -8,7 +8,7 @@ All the codelists utilised for data extraction underwent the rigorous quality co
 For the purposes of codelist identification, primary care codes
 
 ### Vitiligo
-1. People identified with a diagnosis code for vitiligo** in primary care.
+1. People identified with a diagnosis code for [vitiligo](https://github.com/MomentumData/Momentum-Data-Codelists/tree/933109f7d1f8ff28e32fe88ccc4417018c8af3c2/Conditions/Vitiligo) in primary care.
 2. And people with no diagnosis codes for the alternative depigmentation conditions listed below.
    - [Congenital and genetic hypomelanoses](https://github.com/MomentumData/Momentum-Data-Codelists/tree/933109f7d1f8ff28e32fe88ccc4417018c8af3c2/Conditions/Congenital%20and%20Genetic%20Hypomelanoses%20v2):
      - Piebaldism
@@ -21,31 +21,31 @@ For the purposes of codelist identification, primary care codes
      - Genetic hypopigmenting conditions (excluding vitiligo)
     
    - Post-inflammatory hypomelanoses:
-     - Post-inflammatory leukoderma including after atopic eczema or psoriasis
-     - Lichen planus
-     - Pityriasis alba
-     - Lichen sclerosus
+     - [Post-inflammatory leukoderma including after atopic eczema or psoriasis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/933109f7d1f8ff28e32fe88ccc4417018c8af3c2/Conditions/Post-inflammatory%20Hypopigmentation)
+     - [Lichen planus](https://github.com/MomentumData/Momentum-Data-Codelists/tree/933109f7d1f8ff28e32fe88ccc4417018c8af3c2/Conditions/Lichen%20Planus)
+     - [Pityriasis alba](https://github.com/MomentumData/Momentum-Data-Codelists/tree/933109f7d1f8ff28e32fe88ccc4417018c8af3c2/Conditions/Pityriasis%20Alba)
+     - [Lichen sclerosus](https://github.com/MomentumData/Momentum-Data-Codelists/tree/933109f7d1f8ff28e32fe88ccc4417018c8af3c2/Conditions/Lichen%20Sclerosis)
        
-   - Post traumatic leukoderma
+   - [Post traumatic leukoderma](https://github.com/MomentumData/Momentum-Data-Codelists/tree/933109f7d1f8ff28e32fe88ccc4417018c8af3c2/Conditions/Post-traumatic%20Leucoderma)
      
-   - Para-malignant hypomelanoses:
+   - [Para-malignant hypomelanoses](https://github.com/MomentumData/Momentum-Data-Codelists/tree/933109f7d1f8ff28e32fe88ccc4417018c8af3c2/Conditions/Para-malignant%20Hypomelanoses):
      - Cutaneous T-cell lymphoma (mycosis fungoides)
      - Melanoma associated depigmentation
 
-   - Occupational vitiligo
+   - [Occupational vitiligo](https://github.com/MomentumData/Momentum-Data-Codelists/tree/933109f7d1f8ff28e32fe88ccc4417018c8af3c2/Conditions/Occupational%20Vitiligo)
      
-   - Induced hypomelanoses (excluding vitiligo)
+   - [Induced hypomelanoses (excluding vitiligo)](https://github.com/MomentumData/Momentum-Data-Codelists/tree/933109f7d1f8ff28e32fe88ccc4417018c8af3c2/Conditions/Other%20Induced%20Hypomelanoses%20v1)
      
-   - Pityriasis versicolor (or Tinea versicolor)
+   - [Pityriasis versicolor (or Tinea versicolor)](https://github.com/MomentumData/Momentum-Data-Codelists/tree/933109f7d1f8ff28e32fe88ccc4417018c8af3c2/Conditions/Pityriasis%20Versicolor)
   
    - Others:
-     - Melasma
-     - Morphoea
-     - Idiopathic guttate hypomelanosis
-     - Xeroderma pigmentosum
-     - Progressive macular hypomelanosis
-     - Nevus depigmentosus
-     - Cutaneous sarcoidosis
+     - [Melasma](https://github.com/MomentumData/Momentum-Data-Codelists/tree/933109f7d1f8ff28e32fe88ccc4417018c8af3c2/Conditions/Melasma)
+     - [Morphoea](https://github.com/MomentumData/Momentum-Data-Codelists/tree/933109f7d1f8ff28e32fe88ccc4417018c8af3c2/Conditions/Morphoea)
+     - [Idiopathic guttate hypomelanosis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/933109f7d1f8ff28e32fe88ccc4417018c8af3c2/Conditions/Idiopathic%20Guttate%20Hypomelanoses)
+     - [Xeroderma pigmentosum](https://github.com/MomentumData/Momentum-Data-Codelists/tree/933109f7d1f8ff28e32fe88ccc4417018c8af3c2/Conditions/Xeroderma%20Pigmentosum)
+     - [Progressive macular hypomelanosis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/933109f7d1f8ff28e32fe88ccc4417018c8af3c2/Conditions/Progressive%20Macular%20Hypomelanosis)
+     - [Nevus depigmentosus](https://github.com/MomentumData/Momentum-Data-Codelists/tree/933109f7d1f8ff28e32fe88ccc4417018c8af3c2/Conditions/Nevus%20Depigmentosus)
+     - [Cutaneous sarcoidosis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/933109f7d1f8ff28e32fe88ccc4417018c8af3c2/Conditions/Cutaneous%20Sarcoidosis)
     
 ### Trial-similar vitiligo
 In addition to the criteria listed above for vitiligo, patients with any of the following diagnosis/medication/procedure codes (made in primary care) could be excluded from the trial similar cohort:
