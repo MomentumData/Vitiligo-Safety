@@ -50,42 +50,68 @@ For the purposes of codelist identification, primary care codes
 ### Trial-similar vitiligo
 In addition to the criteria listed above for vitiligo, patients with any of the following diagnosis/medication/procedure codes (made in primary care) will be excluded from the trial similar cohort:
  - Vogt-Koyanagi-Harada disease (included in [Congenital and genetic hypomelanoses](https://github.com/MomentumData/Momentum-Data-Codelists/tree/933109f7d1f8ff28e32fe88ccc4417018c8af3c2/Conditions/Congenital%20and%20Genetic%20Hypomelanoses%20v2))
- - Ataxia telangiectasia
- - Albinism
- - Incontinentia pigmenti
- - Dyschromatosis symmetrica hereditarian
- - Leukoderma
- - Discoid lupus
- - Syphilis
- - Seborrheic dermatitis
- - Antibiotics
- - Antivirals
- - Antiparasitics
- - Antiprotozoals
- - Antifungals
+ - [Ataxia telangiectasia](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Ataxia%20Telangiectasia)
+ - [Albinism](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Albinism)
+ - [Incontinentia pigmenti](https://github.com/MomentumData/Momentum-Data-Codelists/tree/5b78b7a5c15d07a55823ce6963d0a43a5a82a51f/Conditions/Incontinentia%20Pigmenti)
+ - [Dyschromatosis symmetrica hereditarian](https://github.com/MomentumData/Momentum-Data-Codelists/tree/e34f29b7f74498877cb3ca60db0b4d9a1c64a745/Conditions/Dyschromatosis%20Symmetrica%20Hereditarian)
+ - [Leukoderma](https://github.com/MomentumData/Momentum-Data-Codelists/tree/e34f29b7f74498877cb3ca60db0b4d9a1c64a745/Conditions/Leukoderma)
+ - [Discoid lupus](https://github.com/MomentumData/Momentum-Data-Codelists/tree/e34f29b7f74498877cb3ca60db0b4d9a1c64a745/Conditions/Discoid%20Lupus)
+ - [Syphilis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c0fc8ae9e13f9827d7a07bdf9e0c7ceab9aaca0e/Conditions/Secondary%20Syphilis%20of%20the%20Skin)
+ - [Seborrheic dermatitis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c0fc8ae9e13f9827d7a07bdf9e0c7ceab9aaca0e/Conditions/Seborrheic%20Dermatitis)
+ - [Antibiotics](https://github.com/MomentumData/Momentum-Data-Codelists/tree/49b067d04d7c252eb8ef5e0b6a582656c1212ac4/Treatments/Antibiotics)
+ - [Antivirals](https://github.com/MomentumData/Momentum-Data-Codelists/tree/f92782ba5eac8ae5beea728a2fed9d428ac997e2/Treatments/Antivirals)
+ - [Antiparasitics](https://github.com/MomentumData/Momentum-Data-Codelists/tree/f92782ba5eac8ae5beea728a2fed9d428ac997e2/Treatments/Antiparasitics)
+ - [Antiprotozoals](https://github.com/MomentumData/Momentum-Data-Codelists/tree/0c0974904cfe8ce4407b45239fc1f972523c8164/Treatments/Antiprotozoals)
+ - [Antifungals](https://github.com/MomentumData/Momentum-Data-Codelists/tree/baf2d67d77864d4746842ba871333252d5f09c5a/Treatments/Antifungals)
  - Serious infections
- - Active tuberculosis
- - Disseminated herpes simplex or zoster:
+   - [Encephalitis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Encephalitis)
+   - [Endocarditis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Endocarditis)
+   - [Gastrointestinal infections](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Gastrointestinal%20Infections)
+   - [Infectious hepatitis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Infectious%20Hepatitis)
+   - [Joint infections](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Joint%20Infection)
+   - [Mentingitis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Meningitis)
+   - [Bone infections](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Osteomyelitis%20(Bone%20Infections))
+   - [Respiratory infections](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Respiratory%20Infections)
+   - [Sepsis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Sepsis)
+   - [Skin infections](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Skin%20Infections)
+ - [Active tuberculosis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/d375622de34a9ad1cf6aed30e1a88bfb3814fd24/Conditions/Tuberculosis)
+ - [Disseminated herpes simplex or zoster:](https://github.com/MomentumData/Momentum-Data-Codelists/tree/19cc71927af35556e3f7112295e7686b72931806/Conditions/Disseminated%20Herpes%20Simplex%20or%20Zoster)
    - Herpetic septicemia
    - Visceral herpes simplex
    - Herpes viral hepatitis
    - Herpesvirus encephalitis
    - Disseminated herpes viral disease
- - Hepatitis B
- - Hepatitis C
- - Humman Immunodeficiency Virus (HIV)
+ - [Hepatitis B](https://github.com/MomentumData/Momentum-Data-Codelists/tree/19cc71927af35556e3f7112295e7686b72931806/Conditions/Hepatitis%20B)
+ - [Hepatitis C](https://github.com/MomentumData/Momentum-Data-Codelists/tree/19cc71927af35556e3f7112295e7686b72931806/Conditions/Hepatitis%20C)
+ - [Humman Immunodeficiency Virus (HIV)](https://github.com/MomentumData/Momentum-Data-Codelists/tree/19cc71927af35556e3f7112295e7686b72931806/Conditions/HIV%20(Humman%20Immunodeficiency%20Virus))
  - Clinically significant, severe, progressive or uncontrolled diseases:
-   - Renal
-   - Hepatic
-   - Haematological
+   - [Renal](https://github.com/MomentumData/Momentum-Data-Codelists/tree/19cc71927af35556e3f7112295e7686b72931806/Conditions/CKD%20(Chronic%20Kidney%20Disease)%20Any%20Stage)
+   - [Hepatic](https://github.com/MomentumData/Momentum-Data-Codelists/tree/19cc71927af35556e3f7112295e7686b72931806/Conditions/Chronic%20Liver%20Disease)
+   - Haematological (Anemia dervied from algorithm)
    - Gastrointestinal
+     - [Gastro-Oesophageal Reflux Disease (GORD)](https://github.com/MomentumData/Momentum-Data-Codelists/tree/19cc71927af35556e3f7112295e7686b72931806/Conditions/GORD%20(Gastro-Oesophageal%20Reflux%20Disease))
+     - [Peptic Ulcer Disease](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c8da54d43f52d3997d3779749731b7eee8160140/Conditions/Peptic%20Ulcer)
+     - [Other Inflammatory Bowel Disease](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c8da54d43f52d3997d3779749731b7eee8160140/Conditions/Other%20IBD%20(Inflammatory%20Bowel%20Disease))
+     - [Diverticular Disease and Diverticulitis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/6e746643efe79163d3bff125de856d8e7afc148e/Conditions/Diverticular%20Disease%20and%20divertuculitis)
+     - [Irritable Bowel Syndrome (IBS)](https://github.com/MomentumData/Momentum-Data-Codelists/tree/6e746643efe79163d3bff125de856d8e7afc148e/Conditions/Irritable%20Bowel%20Syndrome%20(IBS))
+     - [Acute/Chronic Pancreatitis(Sourced from Exeter Diabetes GitHub)](https://github.com/Exeter-Diabetes/CPRD-Codelists)
+     - [Gall stone disease](https://github.com/MomentumData/Momentum-Data-Codelists/tree/b50c05e044f358fd27af97a02c0ed589d5912f50/Conditions/Gall%20Stone%20Disease)
    - Metabolic
-   - Endocrine
+   - [Endocrine (Hyperthyroidism excluding Graves Disease + Hyperparathyroidism + Hypopituitarism + Addison's Disease)](https://github.com/MomentumData/Momentum-Data-Codelists/tree/779eef57c6491a4d242ee821c94d24185cf76cd2/Conditions/Hyperthyroidism)
    - Pulmonary
+      - [Interstitial Lung Disease (ILD)](https://github.com/MomentumData/Momentum-Data-Codelists/tree/779eef57c6491a4d242ee821c94d24185cf76cd2/Conditions/ILD%20(Interstitial%20Lung%20Disease))
+      - [Bronchiectasis(Sourced from Exeter Diabetes GitHub)](https://github.com/Exeter-Diabetes/CPRD-Codelists)
    - Cardiovascular
+    - [Myocardial Infarction](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/MI%20(Myocardial%20Infarction))
    - Psychiatric
+      - Alcohol Abuse
+      - [Schizophrenia](https://github.com/MomentumData/Momentum-Data-Codelists/tree/779eef57c6491a4d242ee821c94d24185cf76cd2/Conditions/Schizophrenia)
    - Immunologic/Rheumatologic
+      - [Osteoarthritis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/34d46beface4bdc44f7dc03c9095dc1463c10706/Conditions/Osteoarthritis)
+      - [Osteoporosis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/779eef57c6491a4d242ee821c94d24185cf76cd2/Conditions/Osteoporosis)
    - Neurologic
+      - [Dementia](https://github.com/MomentumData/Momentum-Data-Codelists/tree/34d46beface4bdc44f7dc03c9095dc1463c10706/Conditions/Dementia)
+      - [Epilepsy](https://github.com/MomentumData/Momentum-Data-Codelists/tree/34d46beface4bdc44f7dc03c9095dc1463c10706/Conditions/Epilepsy)
  - Hearing loss, middle or inner ear disease:
    - Otis media
    - Cholesteatoma
@@ -117,50 +143,62 @@ In addition to the criteria listed above for vitiligo, patients with any of the 
 
 ### Outcomes
 People identified with the respective diagnosis codes recorded in primary or secondary care as for each of the outcomes below:
- - Opportunistic infections
- - Herpes zoster
- - Herpes simplex
+ - [Opportunistic infections](https://github.com/MomentumData/Momentum-Data-Codelists/tree/3b3ca570d00ca028fa8b5d320213b34f07c9b4cc/Conditions/Opportunistic%20Infections)
+ - [Herpes zoster](https://github.com/MomentumData/Momentum-Data-Codelists/tree/3b3ca570d00ca028fa8b5d320213b34f07c9b4cc/Conditions/Herpes%20Zoster)
+ - [Herpes simplex](https://github.com/MomentumData/Momentum-Data-Codelists/tree/3b3ca570d00ca028fa8b5d320213b34f07c9b4cc/Conditions/Herpes%20Simplex)
  - Psychiatric conditions:
-   - Anxiety disorder
-   - Mood disorder
-   - Personality disorder
-   - Suicidal ideation or behaviour
-   - Depression
- - Type 1 Diabetes
- - Type 2 Diabetes
- - Autoimmune thyroditis (including Hashimoto Thyroiditis)
- - Rheumatoid arthritis
- - Systemic lupus erythematosus
- - Sjorgen's Syndrome
- - Mysathenia Gravis
- - Systemic sclerosis
+   - [Anxiety disorder](https://github.com/MomentumData/Momentum-Data-Codelists/tree/3b3ca570d00ca028fa8b5d320213b34f07c9b4cc/Conditions/Anxiety%20Episode)
+   - [Bipolar disorders](https://github.com/MomentumData/Momentum-Data-Codelists/tree/3b3ca570d00ca028fa8b5d320213b34f07c9b4cc/Conditions/Bipolar%20Disorder)
+   - [Personality disorder](https://github.com/MomentumData/Momentum-Data-Codelists/tree/3b3ca570d00ca028fa8b5d320213b34f07c9b4cc/Conditions/Personality%20Disorders)
+   - [Suicidal ideation or behaviour](https://github.com/MomentumData/Momentum-Data-Codelists/tree/3b3ca570d00ca028fa8b5d320213b34f07c9b4cc/Conditions/Suicidal%20Ideation)
+   - [Depression](https://github.com/MomentumData/Momentum-Data-Codelists/tree/3b3ca570d00ca028fa8b5d320213b34f07c9b4cc/Conditions/Depressive%20Episodes)
+ - [Type 1 Diabetes](https://github.com/MomentumData/Momentum-Data-Codelists/tree/3b3ca570d00ca028fa8b5d320213b34f07c9b4cc/Conditions/Type%201%20Diabetes)
+ - [Type 2 Diabetes](https://github.com/MomentumData/Momentum-Data-Codelists/tree/3b3ca570d00ca028fa8b5d320213b34f07c9b4cc/Conditions/Type%202%20Diabetes)
+ - Autoimmune thyroditis:
+       - Defined by algorithm: A code for [Hashimoto's](https://github.com/MomentumData/Momentum-Data-Codelists/tree/3b3ca570d00ca028fa8b5d320213b34f07c9b4cc/Conditions/Hashimoto's%20Thyroditis) OR a code for [non-specific hypothyroidism](https://github.com/MomentumData/Momentum-Data-Codelists/tree/3b3ca570d00ca028fa8b5d320213b34f07c9b4cc/Conditions/Non-Specific%20Hypothyroidism) AND no code for [non-autoimmune hypothyroidism](https://github.com/MomentumData/Momentum-Data-Codelists/tree/3b3ca570d00ca028fa8b5d320213b34f07c9b4cc/Conditions/Non-Autoimmune%20Hypothyroidism)
+ - [Rheumatoid arthritis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/3b3ca570d00ca028fa8b5d320213b34f07c9b4cc/Conditions/RA%20(Rheumatoid%20Arthritis))
+ - [Systemic lupus erythematosus](https://github.com/MomentumData/Momentum-Data-Codelists/tree/3b3ca570d00ca028fa8b5d320213b34f07c9b4cc/Conditions/Systemic%20lupus%20erythematosus)
+ - [Sjorgen's Syndrome](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Sjorgen's%20Syndrome)
+ - [Mysathenia Gravis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Myasthenia%20Gravis)
+ - [Systemic sclerosis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Systemic%20Sclerosis)
  - Autoimmune blistering diseases:
-   - Epidermolysis bullosa
-   - Pemphigus vulgaris
-   - Bullous pemphigoid
- - Psoriasis
- - Pernicious anemia
- - Hearing loss
- - Alopecia areata
+   - [Epidermolysis bullosa](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Epidermolysis%20Bullosa)
+   - [Pemphigus vulgaris](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Pemphigus%20Vulgaris)
+   - [Bullous pemphigoid](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Bullous%20Pemphigoid)
+ - [Psoriasis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Psoriasis)
+ - [Pernicious anemia](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Pernicious%20Anaemia)
+ - [Hearing loss](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Hearing%20Loss)
+ - [Alopecia areata](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Alopecia%20Areata)
  - Serious infections
- - Malignancy (excluding non-melanoma skin cancer (NMSC) and cervical carcinoma in _situ_
+   - [Encephalitis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Encephalitis)
+   - [Endocarditis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Endocarditis)
+   - [Gastrointestinal infections](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Gastrointestinal%20Infections)
+   - [Infectious hepatitis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Infectious%20Hepatitis)
+   - [Joint infections](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Joint%20Infection)
+   - [Mentingitis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Meningitis)
+   - [Bone infections](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Osteomyelitis%20(Bone%20Infections))
+   - [Respiratory infections](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Respiratory%20Infections)
+   - [Sepsis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Sepsis)
+   - [Skin infections](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Skin%20Infections)
+ - Malignancy (excluding non-melanoma skin cancer (NMSC))
+    - [Solid cancer](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Solid%20Cancer)
+    - [Haematological cancer](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Haematological%20Cancer)
  - NMSC:
-   - Basal Cell Carcinoma (BCC)
-   - Squamous Cell Carcinoma (SCC)
+   - [Basal Cell Carcinoma (BCC)](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/BCC%20(Basal%20Cell%20Carcinoma))
+   - [Squamous Cell Carcinoma (SCC)](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Squamous%20Cell%20Carcinoma)
  - Venous thromboembolism:
-   - Deep vein thrombosis
-   - Pulmonary embolism
- - Artherial thromboembolism
+   - [Deep vein thrombosis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/DVT%20(Deep%20Vein%20Thrombosis))
+   - [Pulmonary embolism](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/PE%20(Pulmonary%20Embolism))
+ - [Arterial thromboembolism](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Arterial%20Thrombosis)
  - Major Adverse Cardiovascular Event (MACE):
-   - Acute myocardial infarction
-   - Unstable angina
-   - Coronary vrevascularisation by PCI or CABG
-   - Ischaemic stroke
-   - Haemorrhagic stroke
-- Peripheral neuropathy
-- Sensorineural hearing loss
-- Parasthesia
-- Dysesthesia
+   - [Acute myocardial infarction](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/MI%20(Myocardial%20Infarction))
+   - [Unstable angina](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Unstable%20Angina)
+   - [Coronary vrevascularisation by PCI or CABG](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Revascularisation%20Procedures)
+   - [Ischaemic stroke](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Ischaemic%20Stroke)
+   - [Haemorrhagic stroke](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Hemorrahagic%20Stroke)
+- [Peripheral neuropathy](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Peripheral%20Neuropathy)
+- [Sensorineural hearing loss](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Sensorineural%20Hearing%20Loss)
+- [Parasthesia and dysesthesia](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Paraesthesia%20and%20Dysesthesia)
 
 
 
