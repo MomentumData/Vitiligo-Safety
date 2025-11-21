@@ -113,33 +113,56 @@ In addition to the criteria listed above for vitiligo, patients with any of the 
       - [Dementia](https://github.com/MomentumData/Momentum-Data-Codelists/tree/34d46beface4bdc44f7dc03c9095dc1463c10706/Conditions/Dementia)
       - [Epilepsy](https://github.com/MomentumData/Momentum-Data-Codelists/tree/34d46beface4bdc44f7dc03c9095dc1463c10706/Conditions/Epilepsy)
  - Hearing loss, middle or inner ear disease:
-   - Otis media
-   - Cholesteatoma
-   - Meniere's Disease
-   - Labyrinthitis
- - Lymphoproliferative disorders:
+   - [Otis media](https://github.com/MomentumData/Momentum-Data-Codelists/tree/923d229b6b32090156693bc20692d83af34b5bbd/Conditions/Otitis%20Media)
+   - [Cholesteatoma](https://github.com/MomentumData/Momentum-Data-Codelists/tree/fe7ab259a4335ca8e96c874677cb04660792ce83/Conditions/Cholesteatoma)
+   - [Meniere's Disease](https://github.com/MomentumData/Momentum-Data-Codelists/tree/93d9a1a8c27ba064a57ed3aadff7df0f640d6163/Conditions/Meniere's%20Disease)
+   - [Labyrinthitis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/d10dd7bbf69f497d2cd9b76007c2bc6bd1d6310e/Conditions/Labyrinthitis)
+ - [Lymphoproliferative disorders:](https://github.com/MomentumData/Momentum-Data-Codelists/tree/748d5244bd3f95c2f0fe62b68b33487df4130c5e/Conditions/Lymphoproliferative%20Disorders)
    - Waldenstorm's Macroglobulinemia
    - Wiskott-Aldrich syndrome
    - Pityriasis llichenoides
    - Parapsoriasis post-transplant lymphoproliferative disorder
    - Autoimmune lymphoproliferative syndrome
- - Cardiompyopathy
- - Long QT syndrome
- - Torsade de pointe
- - Malignancy (excluding non-melanoma skin cancer (NMSC) and cervical carcinoma in _situ_
+ - [Cardiompyopathy](https://github.com/MomentumData/Momentum-Data-Codelists/tree/748d5244bd3f95c2f0fe62b68b33487df4130c5e/Conditions/Cardiomyopathy)
+ - [Long QT syndrome]
+ - [Torsade de pointe]
+ - Malignancy (excluding non-melanoma skin cancer (NMSC))
+    -[Solid cancer](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Solid%20Cancer)
+    - [Haematological cancer](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Haematological%20Cancer)
  - Depigmentation treatment for pigmentation disorders
- - Systemic JAK inhibitor
- - Non-B cell selective lymphocyte depleting agent
+ - [Systemic JAK inhibitor](https://github.com/MomentumData/Momentum-Data-Codelists/tree/63b7a8c005c19d2fd174ac3be07b0de275b78187/Treatments/JAK-Inhibitors)
+ - [Non-B cell selective lymphocyte depleting agent](https://github.com/MomentumData/Momentum-Data-Codelists/tree/bcd9f1286e273b7086a8d7f03ace1a32cd8fa4ad/Treatments/Non%20B%20cell%20selective%20lymphocyte%20depleting%20agents)
  - Melanocyte-keratinocyte transplantation
  - Surgical treatment for vitiligo
- - B-cell-depleting agents
- - Immunomodulatory biologic agents
- - Narrow-band UVB phototherapy
- - Phototherapy
+ - [B-cell-depleting agents](https://github.com/MomentumData/Momentum-Data-Codelists/tree/2a8565f32e9e65f2201b90fabe74ec98c5bb6f41/Treatments/B-Cell%20Depleting%20Agents)
+ - Immunomodulatory biologic agents:
+     - [Bimekizumab](https://github.com/MomentumData/Momentum-Data-Codelists/tree/2a8565f32e9e65f2201b90fabe74ec98c5bb6f41/Treatments/Bimekizumab)
+     - [Brodalumab](https://github.com/MomentumData/Momentum-Data-Codelists/tree/2a8565f32e9e65f2201b90fabe74ec98c5bb6f41/Treatments/Brodalumab)
+     - [Certolizumab](https://github.com/MomentumData/Momentum-Data-Codelists/tree/2a8565f32e9e65f2201b90fabe74ec98c5bb6f41/Treatments/Certolizumab)
+     - [Etanercept](https://github.com/MomentumData/Momentum-Data-Codelists/tree/2a8565f32e9e65f2201b90fabe74ec98c5bb6f41/Treatments/Etanercept)
+     - [Golimumab](https://github.com/MomentumData/Momentum-Data-Codelists/tree/2a8565f32e9e65f2201b90fabe74ec98c5bb6f41/Treatments/Golimumab)
+     - [Guselkumab](https://github.com/MomentumData/Momentum-Data-Codelists/tree/2a8565f32e9e65f2201b90fabe74ec98c5bb6f41/Treatments/Guselkumab)
+     - [Infliximab](https://github.com/MomentumData/Momentum-Data-Codelists/tree/2a8565f32e9e65f2201b90fabe74ec98c5bb6f41/Treatments/Infliximab)
+     - [Ixekizumab](https://github.com/MomentumData/Momentum-Data-Codelists/tree/4cfe5d53a399523b7fbde5a7a073fb8b8adbbfc3/Treatments/Ixekizumab)
+     - [Risankizumab](https://github.com/MomentumData/Momentum-Data-Codelists/tree/4cfe5d53a399523b7fbde5a7a073fb8b8adbbfc3/Treatments/Risankizumab)
+     - [Secukinumab](https://github.com/MomentumData/Momentum-Data-Codelists/tree/4cfe5d53a399523b7fbde5a7a073fb8b8adbbfc3/Treatments/Secukinumab)
+     - [Tildrakizumab](https://github.com/MomentumData/Momentum-Data-Codelists/tree/4cfe5d53a399523b7fbde5a7a073fb8b8adbbfc3/Treatments/Tildrakizumab)
+     - [Ustekinumab](https://github.com/MomentumData/Momentum-Data-Codelists/tree/4cfe5d53a399523b7fbde5a7a073fb8b8adbbfc3/Treatments/Ustekinumab)
+     - [Abatacept](https://github.com/MomentumData/Momentum-Data-Codelists/tree/4cfe5d53a399523b7fbde5a7a073fb8b8adbbfc3/Treatments/Abatacept)
+     - [Adalimumab](https://github.com/MomentumData/Momentum-Data-Codelists/tree/4cfe5d53a399523b7fbde5a7a073fb8b8adbbfc3/Treatments/Adalimumab)
+     - [Anakinra](https://github.com/MomentumData/Momentum-Data-Codelists/tree/4cfe5d53a399523b7fbde5a7a073fb8b8adbbfc3/Treatments/Anakinra)
+     - [Apremilast](https://github.com/MomentumData/Momentum-Data-Codelists/tree/4cfe5d53a399523b7fbde5a7a073fb8b8adbbfc3/Treatments/Apremilast)
+ - [Phototherapy](https://github.com/MomentumData/Momentum-Data-Codelists/tree/4cfe5d53a399523b7fbde5a7a073fb8b8adbbfc3/Conditions/Phototherapy)
  - Laser therapy
- - Oral immune suppressants
- - Intralesional, oral, or injectable steroids
- - Exposure to investigational drugs
+ - Oral immune suppressants:
+     - [Azathioprine](https://github.com/MomentumData/Momentum-Data-Codelists/tree/4cfe5d53a399523b7fbde5a7a073fb8b8adbbfc3/Treatments/Azathioprine)
+     - [Ciclosporin](https://github.com/MomentumData/Momentum-Data-Codelists/tree/4cfe5d53a399523b7fbde5a7a073fb8b8adbbfc3/Treatments/Ciclosporin)
+     - [Methotrexate](https://github.com/MomentumData/Momentum-Data-Codelists/tree/4cfe5d53a399523b7fbde5a7a073fb8b8adbbfc3/Treatments/Methotrexate)
+     - [Mycophenolate-mofetil](https://github.com/MomentumData/Momentum-Data-Codelists/tree/4cfe5d53a399523b7fbde5a7a073fb8b8adbbfc3/Treatments/Mycophenolate%20Mofetil)
+ - [Intralesional steroids](https://github.com/MomentumData/Momentum-Data-Codelists/tree/4cfe5d53a399523b7fbde5a7a073fb8b8adbbfc3/Treatments/Intralesional%20Steroids)
+ - [Oral steroids](https://github.com/MomentumData/Momentum-Data-Codelists/tree/ec0326257badeb897c281d7dfcd80f2fdfa77f95/Treatments/Oral%20Steroids)
+ - [Injectable steroids](https://github.com/MomentumData/Momentum-Data-Codelists/tree/ec0326257badeb897c281d7dfcd80f2fdfa77f95/Treatments/Injectable%20Steroids)
+ - [Exposure to investigational drugs](https://github.com/MomentumData/Momentum-Data-Codelists/tree/ec0326257badeb897c281d7dfcd80f2fdfa77f95/Conditions/Drug%20Trial%20Participant)
 
 ### Outcomes
 People identified with the respective diagnosis codes recorded in primary or secondary care as for each of the outcomes below:
