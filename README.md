@@ -123,7 +123,7 @@ In addition to the criteria listed above for vitiligo, patients with any of the 
    - Pityriasis llichenoides
    - Parapsoriasis post-transplant lymphoproliferative disorder
    - Autoimmune lymphoproliferative syndrome
- - [Cardiompyopathy](https://github.com/MomentumData/Momentum-Data-Codelists/tree/748d5244bd3f95c2f0fe62b68b33487df4130c5e/Conditions/Cardiomyopathy)
+ - [Cardiomyopathyy](https://github.com/MomentumData/Momentum-Data-Codelists/tree/748d5244bd3f95c2f0fe62b68b33487df4130c5e/Conditions/Cardiomyopathy)
  - [Long QT syndrome]
  - [Torsade de pointe]
  - Malignancy (excluding non-melanoma skin cancer (NMSC))
