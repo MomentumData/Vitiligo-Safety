@@ -87,7 +87,7 @@ In addition to the criteria listed above for vitiligo, patients with any of the 
  - Clinically significant, severe, progressive or uncontrolled diseases:
    - [Renal](https://github.com/MomentumData/Momentum-Data-Codelists/tree/19cc71927af35556e3f7112295e7686b72931806/Conditions/CKD%20(Chronic%20Kidney%20Disease)%20Any%20Stage)
    - [Hepatic](https://github.com/MomentumData/Momentum-Data-Codelists/tree/19cc71927af35556e3f7112295e7686b72931806/Conditions/Chronic%20Liver%20Disease)
-   - Haematological (Anemia dervied from algorithm)
+   - Haematological (Anemia derived from algorithm)
    - Gastrointestinal
      - [Gastro-Oesophageal Reflux Disease (GORD)](https://github.com/MomentumData/Momentum-Data-Codelists/tree/19cc71927af35556e3f7112295e7686b72931806/Conditions/GORD%20(Gastro-Oesophageal%20Reflux%20Disease))
      - [Peptic Ulcer Disease](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c8da54d43f52d3997d3779749731b7eee8160140/Conditions/Peptic%20Ulcer)
